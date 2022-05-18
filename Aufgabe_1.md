@@ -21,4 +21,4 @@ Sind nun nur noch die Zeilen für den aktuellen Monat übrig, lösche ich die Sp
 Dieser Prozess ist trotz der Funktionen in Excel ziemlich zeitaufwändig und bietet daher ein großes Verbesserungspotenzial. 
 Durch Python könnte man sich zum Beispiel direkt nur die Spalten der Tabelle anzeigen lassen, die man für die Auswertung auch tatsächlich braucht. Dies würde schon etwas Zeit sparen.
 Auch eine Möglichkeit, in einem automatisierten Schritt die Zeilen zu löschen, die den aktuellen Monat nicht betreffen wäre eine große Hilfe.
-Eine weitere Hilfe, diesen Prozess zu optimieren, wäre es, wenn man die einzelnen Tabellen für die einzelnen Kurse zusammenfügen und in einem Schritt auswerten könnte, sodass man dann nach den einzelnen Kursen filtern kann. Dies übersteigt jedoch mein aktuelles Wissen im IT-Bereich.
+Eine weitere Hilfe, diesen Prozess zu optimieren, wäre es, wenn man die einzelnen Tabellen für die einzelnen Kurse zusammenfügen und in einem Schritt auswerten könnte, sodass man dann nach den einzelnen Kursen filtern kann. Dies übersteigt jedoch mein aktuelles Wissen im IT-Bereich -- but the future is wide open! Sky is the limit.
